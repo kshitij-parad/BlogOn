@@ -1,33 +1,42 @@
-```
 # BlogOn
 
-A simple blogging platform built with PHP and MySQL, allowing users to create, manage, and share blog posts.
+**A simple blogging platform built with PHP and MySQL**
+
+BlogOn allows users to create, manage, and share blog posts with ease. It features user profiles, blog management, feedback submission, and an admin dashboard for oversight.
 
 ## Overview
 
-BlogOn is a web application where users can sign up, create and delete blog posts, view their profiles, and submit feedback. It includes an admin dashboard for managing users and content, built with PHP, MySQL, and Bootstrap for a responsive user experience.
+BlogOn is a web application that enables users to:
+- Sign up and create blog posts
+- Manage their profiles and blogs
+- Submit feedback
+- Admins can oversee users and content via a dashboard
+
+Built with PHP, MySQL, and Bootstrap, it offers a responsive and user-friendly experience.
 
 ## Features
 
-### User Features
-- Sign up and log in to create an account
-- Create, view, and delete blog posts
-- View and edit personal profile (name, email, mobile, gender, etc.)
+- **User Features**  
+  - Sign up and log in  
+  - Create, view, and delete blog posts  
+  - View and edit profile (name, email, mobile, gender, etc.)  
 
-### Admin Features
-- View all registered users
-- Search and manage blog posts by author
-- Review user feedback
+- **Admin Features**  
+  - View all registered users  
+  - Search and manage blog posts by author  
+  - Review user feedback  
 
-### Feedback
-- Submit feedback via a contact form
+- **Feedback**  
+  - Submit feedback via a contact form  
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, Bootstrap 4, Font Awesome
-- **Backend**: PHP
-- **Database**: MySQL (port 3307)
-- **Environment**: XAMPP (local development)
+| **Category**   | **Technologies**           |
+|----------------|----------------------------|
+| **Frontend**   | HTML, CSS, Bootstrap 4, Font Awesome |
+| **Backend**    | PHP                       |
+| **Database**   | MySQL (port 3307)         |
+| **Environment**| XAMPP (local development) |
 
 ## Project Structure
 
