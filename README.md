@@ -167,7 +167,7 @@ CREATE TABLE feedback (
 - Create a branch, make changes, and submit a pull request.
 
 ## Author
-- [Your Name] (Replace with your GitHub username or name)
+- kshitij-parad
 
 ---
 ```
