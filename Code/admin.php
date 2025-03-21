@@ -42,7 +42,7 @@
  
 
  <?php
-$conn = mysqli_connect("localhost", "root", "", "blogon");
+$conn = mysqli_connect("localhost", "root", "", "blogon",3307);
 
 //if connection is wrong
 

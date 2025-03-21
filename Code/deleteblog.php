@@ -104,7 +104,7 @@
 
 <?php
 
-$conn = mysqli_connect("localhost", "root", "", "blogon");
+$conn = mysqli_connect("localhost", "root", "", "blogon",3307);
 
 if($conn === false){
     die("ERROR: Could not connect. "

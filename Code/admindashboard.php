@@ -49,7 +49,7 @@
 
 <?php  
 $database = "blogon"; 
-$mysqli = new mysqli("localhost", "root", "", $database); 
+$mysqli = new mysqli("localhost", "root", "", $database,3307); 
 $query = "SELECT * FROM signup";
 
 

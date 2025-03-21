@@ -1,7 +1,7 @@
 
 <?php  
 $database = "blogon"; 
-$mysqli = mysqli_connect("localhost", "root", "", $database); 
+$mysqli = mysqli_connect("localhost", "root", "", $database,3307); 
 
 //echo $author;
 
