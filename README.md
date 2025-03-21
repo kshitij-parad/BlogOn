@@ -176,7 +176,5 @@ CREATE TABLE feedback (
 
 ## Author
 
-- [Your Name]
+- kshitij-parad
 ```
-
----
