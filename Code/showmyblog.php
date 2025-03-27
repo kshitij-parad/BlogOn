@@ -50,7 +50,7 @@ if ($result = $mysqli->query($query)) {
                             <p class="col-lg-12 formfield text-center mb-5" id="category" disabled>'.$field3name.'</p>
                             <div class="row">
                                 <div class="col-lg-4"><img src="'.$url.$field4name.'" id="templateimage" alt="Image"></div>
-                                <p class="col-lg-8 formfield">'.$field5name.'</p>         
+                                <p class="col-lg-8 formfield ml-2">'.$field5name.'</p>         
                             </div> 
                         </div>
                     </form> 

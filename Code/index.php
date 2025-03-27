@@ -79,7 +79,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>The Class</h3>
-                        <p class="m-4"><h4>by- randomuser</h4></p>
+                        <p class="m-4"><h4>by- Priti Jaiswar</h4></p>
                         <p class="m-4"><h4>Educational Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="education.php">View</a>
