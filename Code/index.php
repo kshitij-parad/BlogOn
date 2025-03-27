@@ -90,7 +90,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Start the journey</h3>
-                        <p class="m-4"><h4>by- p123</h4></p>
+                        <p class="m-4"><h4>by- Kshitij Parad</h4></p>
                         <p class="m-4"><h4>Educational Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="education.php">View</a>
@@ -101,7 +101,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>MPSC</h3>
-                        <p class="m-4"><h4>by- _tejas_011</h4></p>
+                        <p class="m-4"><h4>by- Pritesh Parajapati</h4></p>
                         <p class="m-4"><h4>Educational Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="education.php">View</a>
@@ -117,7 +117,7 @@
             <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Literacy is important</h3>
-                        <p class="m-4"><h4>by- p123</h4></p>
+                        <p class="m-4"><h4>by- Kshitij Parad</h4></p>
                         <p class="m-4"><h4>Educational Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="education.php">View</a>
@@ -129,7 +129,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Engineering the future</h3>
-                        <p class="m-4"><h4>by- _tejas_011</h4></p>
+                        <p class="m-4"><h4>by- Priti</h4></p>
                         <p class="m-4"><h4>Educational Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="education.php">View</a>
@@ -193,7 +193,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Ashes</h3>
-                        <p class="m-4"><h4>by- p123</h4></p>
+                        <p class="m-4"><h4>by- Priti</h4></p>
                         <p class="m-4"><h4>Sports Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="sports.php">View</a>
@@ -204,7 +204,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>WWE</h3>
-                        <p class="m-4"><h4>by- _tejas_011</h4></p>
+                        <p class="m-4"><h4>by- Kshitij</h4></p>
                         <p class="m-4"><h4>Sports Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="sports.php">View</a>
@@ -220,7 +220,7 @@
             <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>WTC the loss</h3>
-                        <p class="m-4"><h4>by- p123</h4></p>
+                        <p class="m-4"><h4>by- Priti</h4></p>
                         <p class="m-4"><h4>Sports Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="sports.php">View</a>
@@ -232,7 +232,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Rohit Sharma</h3>
-                        <p class="m-4"><h4>by- _tejas_011</h4></p>
+                        <p class="m-4"><h4>by- Kshitij</h4></p>
                         <p class="m-4"><h4>Sports Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="sports.php">View</a>
@@ -298,7 +298,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Kedarnath</h3>
-                        <p class="m-4"><h4>by- p123</h4></p>
+                        <p class="m-4"><h4>by- Priti</h4></p>
                         <p class="m-4"><h4>Travel Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="travel.php">View</a>
@@ -309,7 +309,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Mumbai city of Dreams</h3>
-                        <p class="m-4"><h4>by- _tejas_011</h4></p>
+                        <p class="m-4"><h4>by- Kshitij</h4></p>
                         <p class="m-4"><h4>Travel Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="travel.php">View</a>
@@ -325,7 +325,7 @@
             <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Explore the Ghat</h3>
-                        <p class="m-4"><h4>by- p123</h4></p>
+                        <p class="m-4"><h4>by- Priti</h4></p>
                         <p class="m-4"><h4>Travel Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="travel.php">View</a>
@@ -337,7 +337,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Mansoon Trek</h3>
-                        <p class="m-4"><h4>by- _tejas_011</h4></p>
+                        <p class="m-4"><h4>by- Kshitij</h4></p>
                         <p class="m-4"><h4>Travel Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="travel.php">View</a>
@@ -401,7 +401,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Debate Competetion</h3>
-                        <p class="m-4"><h4>by- p123</h4></p>
+                        <p class="m-4"><h4>by- Priti</h4></p>
                         <p class="m-4"><h4>Other Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="other.php">View</a>
@@ -412,7 +412,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Take a step</h3>
-                        <p class="m-4"><h4>by- _tejas_011</h4></p>
+                        <p class="m-4"><h4>by- Kshitij</h4></p>
                         <p class="m-4"><h4>Other Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="other.php">View</a>
@@ -428,7 +428,7 @@
             <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Social Media</h3>
-                        <p class="m-4"><h4>by- p123</h4></p>
+                        <p class="m-4"><h4>by- Priti</h4></p>
                         <p class="m-4"><h4>Other Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="other.php">View</a>
@@ -440,7 +440,7 @@
                         <div class="col-lg-4 col-md-4 col-12">
                         <div class="box">
                         <h3>Take a step</h3>
-                        <p class="m-4"><h4>by- _tejas_011</h4></p>
+                        <p class="m-4"><h4>by- Kshitij</h4></p>
                         <p class="m-4"><h4>Other Blog</h4></p><br>
                         <div class="header-buttons" id="header-buttons">
                             <a href="other.php">View</a>
